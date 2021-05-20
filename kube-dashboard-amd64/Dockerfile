@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kubernetes-dashboard:v1.20.4
+FROM k8s.gcr.io/kubernetes-dashboard:v2.0.0
 MAINTAINER luis
