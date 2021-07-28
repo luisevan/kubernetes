@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.20.5
+FROM k8s.gcr.io/kube-apiserver:v1.21.3
 MAINTAINER luis
